@@ -1,0 +1,11 @@
+# Ignore executables
+*.out
+
+# Ignore object files
+*.o
+
+# Ignore backup files
+*~
+
+#Ignore sh files
+*.sh
